@@ -203,7 +203,7 @@ The information provided in this project is intended to help users understand an
 
 **Aman Saeed**
 
-Cybersecurity & Computer System Engineering Student
+Internship with code alpha in Cybersecurity 
 
 ---
 
